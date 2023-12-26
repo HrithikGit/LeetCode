@@ -2,7 +2,6 @@
 // [https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1]
 
 /*
-
 A number N is represented in Linked List such that each digit corresponds to a node in linked list. You need to add 1 to it.
 
 Example 1:
@@ -18,6 +17,7 @@ LinkedList: 1->2->3
 Output: 124 
 
 */
+
 //LinkedList
 class Solution
 {
